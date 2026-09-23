@@ -1,0 +1,11 @@
+python-dotenv
+requests
+python-jobspy
+numpy>=2.0
+anthropic
+reportlab
+python-docx
+pdfplumber
+schedule
+google-auth-oauthlib
+google-api-python-client
